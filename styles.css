@@ -1,0 +1,38 @@
+body {
+    font-family: 'Copperplate, Papyrus, fantasy';
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2 {
+    color: #b300b3;
+}
+
+p {
+    line-height: 1.6;
+}
+ul{
+    
+    line-height: 1.6;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+      
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+img {
+    border: 5px solid #ddd;
+}
+
+a {
+    color: #b300b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
